@@ -40,4 +40,4 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 
 ## 📎 Link:
 
-### 💼 [Linkedin Post](https://www.linkedin.com/posts/pravesh-agarwal27_sql-powerbi-dataanalytics-activity-7217060315128070145-ECHM?utm_source=share&utm_medium=member_desktop)
+### 💼 [Linkedin Post]https://www.linkedin.com/feed/update/urn:li:share:7270776677356490753/
